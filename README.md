@@ -1,2 +1,2 @@
 # Diwali_Sales_Analysis
-Diwali_Sales_Analysis_using_Pyython
+Diwali_Sales_Analysis_using_Python
